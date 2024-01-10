@@ -24,6 +24,6 @@ https://skaffold.dev/docs/install/#homebrew
 
 skaffold dev
 
-![Alt text](<Pasted Graphic 14.png>)
+<img width="1114" alt="Pasted Graphic 14" src="https://github.com/anton-syrovatka/blog-micro-services/assets/4752806/d45e18a6-a35d-4f19-8671-97dce2ff855e">
 
-![Alt text](<Cloud Provider (AWS, GC, Azure).png>)
+<img width="831" alt="Cloud Provider (AWS, GC, Azure)" src="https://github.com/anton-syrovatka/blog-micro-services/assets/4752806/d7b5ae17-2b29-4b84-9770-16b66221513a">
