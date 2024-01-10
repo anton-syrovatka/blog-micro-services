@@ -21,7 +21,6 @@ kind: Service
 metadata:
   name: moderation-srv
 spec:
-  # type: NodePort
   selector:
     app: moderation
   ports:

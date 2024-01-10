@@ -19,9 +19,8 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: posts-clusterip-srv
+  name: posts-srv
 spec:
-  # type: NodePort
   selector:
     app: posts
   ports:

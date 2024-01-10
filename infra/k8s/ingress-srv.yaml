@@ -14,7 +14,7 @@ spec:
             pathType: ImplementationSpecific
             backend:
               service:
-                name: posts-clusterip-srv
+                name: posts-srv
                 port:
                   number: 4000
           - path: /posts
